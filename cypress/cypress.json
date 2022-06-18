@@ -1,0 +1,13 @@
+{
+
+    "db": {
+        "userName": "dev",
+        "password": "dev",
+        "server": "10.0.61.32",
+        "options": {
+            "database": "sbill_2.8_web",
+            "encrypt": true,
+            "rowCollectionOnRequestCompletion" : true
+        }
+    }
+}
